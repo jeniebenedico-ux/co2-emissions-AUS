@@ -1,6 +1,6 @@
 # Country-Level CO₂ Emissions: Australia (AUS)
 
-# Student Name: Jenie D. Benedico
+Student Name: Jenie D. Benedico
 
 ## 1. Introduction
 
