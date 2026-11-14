@@ -2,7 +2,7 @@
 
 Student Name: Jenie D. Benedico
 
-## 1. Introduction
+## Introduction
 
 This project examines the carbon dioxide (CO₂) emission trends of Australia from 1990 to 2024 using data from Our World in Data.
 
@@ -17,7 +17,7 @@ The objectives of this analysis are to:
 **ISO-3 Code:** AUS  
 **Study Period:** 1990–2024
 
-## 2. Results
+## Results
 
 The following figures show the results of the analysis of Australia's CO₂ emissions from 1990 to 2024.
 
@@ -33,7 +33,7 @@ The following figures show the results of the analysis of Australia's CO₂ emis
 
 ![Annual Change in CO2 Emissions](figures/AUS_annual_change.png)
 
-## 3. Interpretation
+## Interpretation
 Collectively, the three figures provide a comprehensive overview of Australia’s carbon dioxide emissions trajectory from 1990 to 2024, examining per capita output, 
 total annual volume, and year-over-year percentage fluctuations. Across all three metrics, Australia’s emissions profile transitions from rapid expansion during the 
 1990s and early 2000s to a period of structural stabilization, followed by a pronounced downward shift after 2019—reflecting a broader trend observed across several 
@@ -60,7 +60,7 @@ growth, the annual rate of change remained consistently negative between -0.4% a
 Together, the three figures demonstrate that Australia has moved past its peak emissions era. While historical population expansion kept aggregate emissions high even as per 
 capita intensity improved, sustained negative annual growth rates since 2020 have finally driven both total and per capita emissions onto a consistent downward path (Friedlingstein et al., 2024).
 
-## 4. Limitations
+## Limitations
 
 This study has several limitations:
 
@@ -70,7 +70,7 @@ This study has several limitations:
 - **Emission coverage:** The selected CO₂ emissions data cover fossil fuels and industrial processes but exclude emissions from land-use change and forestry.
 - **Descriptive analysis:** The study describes emission patterns and changes but does not establish the specific causes behind them.
 
-## 5. References
+## References
 
 Our World in Data. (n.d.). *CO₂ and Greenhouse Gas Emissions*.  
 https://ourworldindata.org/co2-and-greenhouse-gas-emissions
@@ -78,7 +78,11 @@ https://ourworldindata.org/co2-and-greenhouse-gas-emissions
 Our World in Data. (n.d.). *CO₂ and Greenhouse Gas Emissions Dataset*.  
 https://owid-public.owid.io/data/co2/owid-co2-data.csv
 
-Friedlingstein, P., O'Sullivan, M., Jones, M. W., Andrew, R. M., Hauck, J., Landschützer, P., Le Quéré, C., Li, H., Luijkx, I. T., Olsen, A., Peters, G. P., Peters, W., Pongratz, J., Schwingshackl, C., Sitch, S., Canadell, J. G., Ciais, P., Jackson, R. B., Alin, S. R., … Berghoff, C. F. (2024). Global Carbon Budget 2024. Copernicus GmbH. 
+Friedlingstein, P., O'Sullivan, M., Jones, M. W., Andrew, R. M., Hauck, 
+J., Landschützer, P., Le Quéré, C., Li, H., Luijkx, I. T., Olsen, A., Peters, 
+G. P., Peters, W., Pongratz, J., Schwingshackl, C., Sitch, S., Canadell, J. G.,
+Ciais, P., Jackson, R. B., Alin, S. R., … Berghoff, C. F. (2024). Global Carbon
+Budget 2024. Copernicus GmbH. 
 https://doi.org/10.5194/essd-2024-519
 
 
